@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LibreriaClassi.AfricanLion">
+    <Position X="6.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAEAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AfricanLion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibreriaClassi.Felidae">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAEAAAAAAAAAAAAIAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Felidae.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibreriaClassi.Lion">
+    <Position X="2" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="LibreriaClassi.Lion.Paw" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Lion.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAgAABAAAAAAEAAEAAAAAAAAACAAIAAwAgAAAAIAAAA=</HashCode>
+      <FileName>Lion.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Esercizi3IA.LibClassi.Animale">
+    <Position X="8.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAEAAAABAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Animale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="8.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

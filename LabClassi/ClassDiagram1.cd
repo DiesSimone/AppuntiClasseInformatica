@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LabClassi.FaunaGreppi.Animale">
+    <Position X="2.75" Y="3" Width="5.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="LabClassi.FaunaGreppi.Animale.Movimento">
+        <TypeIdentifier>
+          <NewMemberFileName>Animale.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Class Name="LabClassi.FaunaGreppi.Animale.Cervello">
+        <TypeIdentifier>
+          <NewMemberFileName>Animale.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAkAMARlADEQIAkACAAAABRAAQARAEBgAAAAQAAAAA=</HashCode>
+      <FileName>Animale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LabClassi.FaunaGreppi.Mammifero" Collapsed="true">
+    <Position X="8.75" Y="3.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAiAAEAAAAEAIAAQACAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Mammifero.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LabClassi.FaunaGreppi.Umano" Collapsed="true">
+    <Position X="8.75" Y="5.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAACAEEAAABAAAABAAAAAkAAAABAAAAAAA=</HashCode>
+      <FileName>Umano.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LabClassi.FaunaGreppi.Cibo" Collapsed="true">
+    <Position X="12.5" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAAAEAAAABAAACAAAAAgAAAAAAAAAAAAAAAAAEAgAA=</HashCode>
+      <FileName>Cibo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="5" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="LabClassi.FaunaGreppi.SuperUmano" Collapsed="true">
+    <Position X="9.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEACAAAAAAAAAAAAAAIAAAABAAAAA=</HashCode>
+      <FileName>SuperUmano.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="LabClassi.FaunaGreppi.IHumanNeeds" Collapsed="true">
+    <Position X="15.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>IHumanNeeds.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="LabClassi.FaunaGreppi.ISocial" Collapsed="true">
+    <Position X="15.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAgAAAABAAAAAAA=</HashCode>
+      <FileName>ISocial.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="LabClassi.FaunaGreppi.TipoPelle" Collapsed="true">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAQAAAAAQAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Animale.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
